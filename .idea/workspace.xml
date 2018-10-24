@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63c3b79c-755c-4c26-abc7-46c23873f172" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/organization/form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/organization/migrations/0003_auto_20181022_2002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/organization/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/password_reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/send_success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MxOnline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxOnline/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MxOnline/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxOnline/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/organization/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/adminx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/organization/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/organization/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/organization/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/utils/email_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/email_send.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/forgetpwd.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forgetpwd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-    </list>
+    <list default="true" id="63c3b79c-755c-4c26-abc7-46c23873f172" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +47,11 @@
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CommandLine" value="247" />
@@ -100,48 +83,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="272">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#698#739#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/org-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="176" column="51" selection-start-line="176" selection-start-column="51" selection-end-line="176" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/organization/form.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
-              <folding>
-                <element signature="e#71#95#0" expanded="true" />
-                <marker date="1540379864488" expanded="true" signature="181:182" ph="..." />
-                <marker date="1540379864488" expanded="true" signature="181:187" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/organization/url.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#73#114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,11 +99,11 @@
         <entry file="file://$PROJECT_DIR$/apps/organization/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
-              <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#15#50#0" expanded="true" />
-                <marker date="1540379068120" expanded="true" signature="327:332" ph="..." />
-                <marker date="1540379068120" expanded="true" signature="1661:2033" ph="..." />
+                <marker date="1540380239448" expanded="true" signature="327:332" ph="..." />
+                <marker date="1540380239448" expanded="true" signature="1661:2033" ph="..." />
               </folding>
             </state>
           </provider>
@@ -194,7 +142,7 @@
             <state relative-caret-position="317">
               <caret line="30" column="15" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
               <folding>
-                <marker date="1540209710655" expanded="true" signature="348:379" ph="..." />
+                <marker date="1540380239446" expanded="true" signature="348:379" ph="..." />
               </folding>
             </state>
           </provider>
@@ -231,6 +179,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -439,8 +392,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="412" y="65" width="1213" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="37" y="23" width="1213" height="735" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.016225448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -448,7 +400,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3576983" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46034214" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46034214" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -456,7 +408,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35147744" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36391914" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.2674961" />
       <window_info active="true" anchor="bottom" id="manage.py@MxOnline" order="13" visible="true" weight="0.2332815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -508,6 +460,11 @@
           <url>file://$PROJECT_DIR$/apps/users/views.py</url>
           <line>113</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/organization/views.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -765,8 +722,8 @@
           <caret selection-end-column="14" />
           <folding>
             <element signature="e#15#50#0" expanded="true" />
-            <marker date="1539767150291" expanded="true" signature="841:4891" ph="..." />
-            <marker date="1539767150291" expanded="true" signature="1677:2134" ph="..." />
+            <marker date="1540380239451" expanded="true" signature="841:4891" ph="..." />
+            <marker date="1540380239451" expanded="true" signature="1677:2134" ph="..." />
           </folding>
         </state>
       </provider>
@@ -779,7 +736,7 @@
         <state relative-caret-position="317">
           <caret line="30" column="15" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
           <folding>
-            <marker date="1540209710655" expanded="true" signature="348:379" ph="..." />
+            <marker date="1540380239446" expanded="true" signature="348:379" ph="..." />
           </folding>
         </state>
       </provider>
@@ -825,16 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#698#739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/Cookie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -866,23 +813,31 @@
     <entry file="file://$PROJECT_DIR$/apps/organization/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
-          <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#15#50#0" expanded="true" />
-            <marker date="1540379068120" expanded="true" signature="327:332" ph="..." />
-            <marker date="1540379068120" expanded="true" signature="1661:2033" ph="..." />
+            <marker date="1540380239448" expanded="true" signature="327:332" ph="..." />
+            <marker date="1540380239448" expanded="true" signature="1661:2033" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/organization/form.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="288">
           <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
           <folding>
             <element signature="e#71#95#0" expanded="true" />
-            <marker date="1540379864488" expanded="true" signature="181:182" ph="..." />
-            <marker date="1540379864488" expanded="true" signature="181:187" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#698#739#0" expanded="true" />
           </folding>
         </state>
       </provider>
